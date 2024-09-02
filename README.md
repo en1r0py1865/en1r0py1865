@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![WizThe Big IAM Challenge](relative%20img/wiz-the-big-iam-challenge-cert.jpg?raw=true "Title")
+![WizThe Big IAM Challenge](./img/wiz-the-big-iam-challenge-cert.jpg?raw=true "Title")
