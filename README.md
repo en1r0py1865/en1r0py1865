@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![WizThe Big IAM Challenge]([https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png](https://github.com/en1r0py1865/en1r0py1865/blob/main/img/wiz-the-big-iam-challenge-cert.jpg))
+![WizThe Big IAM Challenge](relative%20img/wiz-the-big-iam-challenge-cert.jpg?raw=true "Title")
