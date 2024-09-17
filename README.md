@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![WizThe Big IAM Challenge](./img/wiz-the-big-iam-challenge-cert.jpg?raw=true "Title")
+![Wiz The Big IAM Challenge](./img/wiz-the-big-iam-challenge-cert.jpg?raw=true "Title")
+![Wiz K8S Lan Party](./img/wiz-k8s-lan-party.jpg?raw=true "Title")
